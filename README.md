@@ -1,0 +1,72 @@
+###  Web Dev Syllabus
+
+- HTML CSS 
+- Basics of JavaScript 
+- JavaScript (Async) 
+- Callback Hell, Rejects, Async/Await
+- DOM, DOM Advance
+- NodeJS, Bun and JS Runtime 
+- HTTP Servers 
+- Express, Postman 
+- Middleware
+- Headers, Query, Params
+- Cors and Middleware
+- Git & Github
+- JS (Map, filter & arrow fn)
+- Axios vs fetch
+- HTTP Advance
+- Auth and connecting FE to BE
+- JWT and Auth
+- MongoDB
+- Passwords, Zod in Mongo
+- Mongo Advance
+- React Basics (components, hooks, etc)
+- UseState
+- React basics Recap
+- SPAs, Routing
+- Contxet API, Rolling up the State
+- Custom Hooks
+- Recoil
+- Recoil Recap
+- UI/UX Design
+- Tailwind, Refs Arrays and Building Components
+- Tailwind (creating sidebars)
+- TypeScript Basics
+- Types, Interfaces and Implementing Intefaces
+- TypeScript Advance
+- Building a Project in TypeScript
+- Creating a UI/UX Library, Button Component
+- End to End Project
+- WebSockets
+- Chat App Project on Websocket
+- Postgress and SQL DB
+- Prisma and ORM
+- Prisma Advance, SSR
+- NextJS
+- Next Auth
+- Monorepos and Turborepos
+- CSR vs SSR vs Static Site Generation
+- Building a PayTM project
+- Building Frontend
+- End to End Project: Excalidraw (1,2,3,4)
+
+---
+
+### Devops Syllabus
+
+- Kubernetes Basics
+- DevOps, VMs
+- Reverse Proxies Process management & Deployment
+- Process Management and CI/CD
+- Certificate Management and Testing
+- Docker Basics and Advance
+- Docker compose, CI/CD with Docker
+- Deploying a Monorepo using Docker to VMs
+- Vertical and Horizontal Scaling
+- Autoscaling Groups
+- AWS, ERC and Container Orchestation
+- Monitoring and Newrelic
+- Monitoring, Prometheus and Grafana (1 & 2)
+- Serverless
+- Kubernetes
+- Architecture, Control Plane, Worker Nodes, Pods, Kinds
