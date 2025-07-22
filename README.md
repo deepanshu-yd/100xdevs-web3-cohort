@@ -1,72 +1,41 @@
-###  Web Dev Syllabus
+<details>
+<summary>Web3 Syllabus</summary>
 
-- HTML CSS 
-- Basics of JavaScript 
-- JavaScript (Async) 
-- Callback Hell, Rejects, Async/Await
-- DOM, DOM Advance
-- NodeJS, Bun and JS Runtime 
-- HTTP Servers 
-- Express, Postman 
-- Middleware
-- Headers, Query, Params
-- Cors and Middleware
-- Git & Github
-- JS (Map, filter & arrow fn)
-- Axios vs fetch
-- HTTP Advance
-- Auth and connecting FE to BE
-- JWT and Auth
-- MongoDB
-- Passwords, Zod in Mongo
-- Mongo Advance
-- React Basics (components, hooks, etc)
-- UseState
-- React basics Recap
-- SPAs, Routing
-- Contxet API, Rolling up the State
-- Custom Hooks
-- Recoil
-- Recoil Recap
-- UI/UX Design
-- Tailwind, Refs Arrays and Building Components
-- Tailwind (creating sidebars)
-- TypeScript Basics
-- Types, Interfaces and Implementing Intefaces
-- TypeScript Advance
-- Building a Project in TypeScript
-- Creating a UI/UX Library, Button Component
-- End to End Project
-- WebSockets
-- Chat App Project on Websocket
-- Postgress and SQL DB
-- Prisma and ORM
-- Prisma Advance, SSR
-- NextJS
-- Next Auth
-- Monorepos and Turborepos
-- CSR vs SSR vs Static Site Generation
-- Building a PayTM project
-- Building Frontend
-- End to End Project: Excalidraw (1,2,3,4)
+- Blockchain Basics & Bitcoin Whitepaper
+- Public Key Cryptography
+- Creating a Web based Wallet
+- Solana Jargons, Programming models, Tokens
+- Solana Wallet Adapter, Client Side Solana
+- Building a Token Launchpad in React
+- Authorities, Owners and Accounts on Solana
+- DApps, Wallet Adapter and Simple Apps
+- Token Launchpad in React
+- PDAs
+- Decentralized Exchanges, AMMs and Liquidity Pools
+- ETH
+- ETH Wallet Adapters
+- Impermanent Loss, Creating a Liquidity Pool
+- LSTs, Making an LST Platform
+- Private Key Management, Building a Project
+- Solidity Basics
+- Solidity Advance
+- Payable, CCIs in Eth
+- ERC-20 and OpenZeppelin Contracts
+- Hardhat, Ganache, Foundry
+- Bridges, Building an EVM Bridge
+- Building a Bridge
+- Client Side ETH
+- Upgradability in ETH
+- Building a Proxy Staking Contract
+- Upgradable Staking Contracts
+- Redis, Pubsub and Queues
+- End to End ETH app
+- Rust Bootcamp 1
+- Rust Bootcamp 2
+- Rust Bootcamp 3
+- Deriving Macros, Serde, Borsh and Lifetimes
+- Your First Solana Program
+- Solana native contracts in Rust
+- Writing JS Client for Smart Contracts
 
----
-
-### Devops Syllabus
-
-- Kubernetes Basics
-- DevOps, VMs
-- Reverse Proxies Process management & Deployment
-- Process Management and CI/CD
-- Certificate Management and Testing
-- Docker Basics and Advance
-- Docker compose, CI/CD with Docker
-- Deploying a Monorepo using Docker to VMs
-- Vertical and Horizontal Scaling
-- Autoscaling Groups
-- AWS, ERC and Container Orchestation
-- Monitoring and Newrelic
-- Monitoring, Prometheus and Grafana (1 & 2)
-- Serverless
-- Kubernetes
-- Architecture, Control Plane, Worker Nodes, Pods, Kinds
+</details>
