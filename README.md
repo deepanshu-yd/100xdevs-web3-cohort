@@ -1,3 +1,4 @@
+# Web3 Cohort - 100xDevs
 <details>
 <summary>Web3 Syllabus</summary>
 
@@ -39,3 +40,7 @@
 - Writing JS Client for Smart Contracts
 
 </details>
+
+### Week 1 - Orientation
+
+[Lecture Slides](https://projects.100xdevs.com/tracks/web3-orientation/Web3-Cohort---Orientation-1)
